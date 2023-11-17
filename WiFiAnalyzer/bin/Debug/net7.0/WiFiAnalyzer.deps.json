@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WiFiAnalyzer/1.0.0": {
+        "dependencies": {
+          "managedwifi": "1.1.0"
+        },
+        "runtime": {
+          "WiFiAnalyzer.dll": {}
+        }
+      },
+      "managedwifi/1.1.0": {
+        "runtime": {
+          "lib/net20/ManagedWifi.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WiFiAnalyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "managedwifi/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VWEzILcuJLOYrO3gqxAyktDxg16oxtkotoE6K51hqFHM3ebmdgH6dmSctUTkUyhE61f9WFJsEtLtR29a7E6BzQ==",
+      "path": "managedwifi/1.1.0",
+      "hashPath": "managedwifi.1.1.0.nupkg.sha512"
+    }
+  }
+}

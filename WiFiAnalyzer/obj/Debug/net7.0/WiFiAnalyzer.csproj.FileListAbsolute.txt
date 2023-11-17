@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Debug\net7.0\WiFiAnalyzer.exe
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Debug\net7.0\WiFiAnalyzer.deps.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Debug\net7.0\WiFiAnalyzer.runtimeconfig.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Debug\net7.0\WiFiAnalyzer.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Debug\net7.0\WiFiAnalyzer.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Debug\net7.0\ManagedWifi.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.csproj.CopyComplete
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\refint\WiFiAnalyzer.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\WiFiAnalyzer.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\obj\Debug\net7.0\ref\WiFiAnalyzer.dll

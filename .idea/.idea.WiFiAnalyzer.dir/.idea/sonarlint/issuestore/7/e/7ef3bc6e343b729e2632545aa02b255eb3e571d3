@@ -1,0 +1,5 @@
+
+xcsharpsquid:S1118"OAdd a 'protected' constructor or the 'static' keyword to the class declaration.(ЁК≠юш€€€€8ћкедљ1
+{csharpsquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ЉЮЃ»щ€€€€8–кедљ1
+Ocsharpsquid:S3903"&Move 'Program' into a named namespace.(ЁК≠юш€€€€8–кедљ1
+mcsharpsquid:S3267#"JLoop should be simplified by calling Select(network => network.dot11Ssid))(ю±Л78–кедљ1
