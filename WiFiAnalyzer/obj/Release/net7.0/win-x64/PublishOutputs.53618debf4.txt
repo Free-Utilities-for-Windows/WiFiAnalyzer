@@ -1,0 +1,2 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Release\net7.0\win-x64\publish\WiFiAnalyzer.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\WiFiAnalyzer\WiFiAnalyzer\bin\Release\net7.0\win-x64\publish\WiFiAnalyzer.exe

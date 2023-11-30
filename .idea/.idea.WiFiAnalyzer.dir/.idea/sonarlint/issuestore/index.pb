@@ -8,14 +8,10 @@ G
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-G
-WiFiAnalyzer/.gitignore,f\2\f2abec79716ad99f8f2e4104873a77c9f03d8b96
 ž
 n.idea/.idea.WiFiAnalyzer.dir/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\1\31bc34813d1e1b5ac42ba8b4a28428bbd11276c3
 ”
 d.idea/.idea.WiFiAnalyzer.dir/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,1\e\1e5a597f308c0d888a027df863e8c9fc00babf5a
-”
-d.idea/.idea.WiFiAnalyzer.dir/.idea/sonarlint/issuestore/f/2/f2abec79716ad99f8f2e4104873a77c9f03d8b96,1\c\1c4858b10060061d66f3f34ab43d38b38375d363
 j
 :WiFiAnalyzer/obj/Debug/net7.0/WiFiAnalyzer.AssemblyInfo.cs,e\d\edd82a48a434400fa4ad0d99acf9409aebf7d9a3
 d
@@ -24,8 +20,6 @@ d
 TWiFiAnalyzer/obj/Debug/net7.0/WiFiAnalyzer.GeneratedMSBuildEditorConfig.editorconfig,e\7\e752293c35441bb10f1c7e1ac00fcc5953ee2dd2
 m
 =WiFiAnalyzer/bin/Debug/net7.0/WiFiAnalyzer.runtimeconfig.json,0\d\0db38710b2184433a7e84e0b50f79e2ce2f71fe4
-ž
-n.idea/.idea.WiFiAnalyzer.dir/.idea/sonarlint/securityhotspotstore/f/2/f2abec79716ad99f8f2e4104873a77c9f03d8b96,7\2\7255945a5b6dccd62c56f98dd2cee604117d78fe
 Y
 )WiFiAnalyzer/obj/project.packagespec.json,7\3\730f9fac89fb59cd5f2cb4c5c928ddaf7f0400a2
 |
